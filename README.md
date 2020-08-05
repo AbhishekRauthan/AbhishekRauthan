@@ -37,11 +37,11 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Pandas" width="26px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" />
+<img align="left" alt="Pandas" width="60px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" />
 
-<img align="left" alt="Numpy" width="26px" src="https://camo.githubusercontent.com/37d9964b95f38c96ed2cce75182f7ebda4b90f64/68747470733a2f2f676863646e2e7261776769742e6f72672f6e756d70792f6e756d70792f6d61737465722f6272616e64696e672f69636f6e732f7072696d6172792f6e756d70796c6f676f2e737667" />
+<img align="left" alt="Numpy" width="60px" src="https://camo.githubusercontent.com/37d9964b95f38c96ed2cce75182f7ebda4b90f64/68747470733a2f2f676863646e2e7261776769742e6f72672f6e756d70792f6e756d70792f6d61737465722f6272616e64696e672f69636f6e732f7072696d6172792f6e756d70796c6f676f2e737667" />
 
-<img align="left" alt="Matplotlib" width="26px" src="https://camo.githubusercontent.com/7cc5c1ce50d19bb148f96ffcb9b762201ad5e518/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
+<img align="left" alt="Matplotlib" width="60px" src="https://camo.githubusercontent.com/7cc5c1ce50d19bb148f96ffcb9b762201ad5e518/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
 
 [website]: abhishekrauthan.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/abhishek-rauthan-62b1b1100/
