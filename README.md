@@ -13,9 +13,9 @@
 
 <br />
 
-## Languages and Tools:
+## Languages and Tools used:
 
-### For Web dev:
+### For Web Development:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./assets/visual-studio-code.png" />
 <img align="left" alt="Vue" width="26px" src="./assets/web/vue.png" />
