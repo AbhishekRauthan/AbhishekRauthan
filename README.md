@@ -18,7 +18,7 @@
 ### For Web Development:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/AbhishekRauthan/AbhishekRauthan/master/assets/visual-studio-code.png" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/AbhishekRauthan/AbhishekRauthan/master/assets/web/vue.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/AbhishekRauthan/AbhishekRauthan/master/assets/web/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/AbhishekRauthan/AbhishekRauthan/master/assets/web/angular.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/AbhishekRauthan/AbhishekRauthan/master/assets/web/nodejs.png" />
 <img align="left" alt="Nest.js" width="26px" src="https://raw.githubusercontent.com/AbhishekRauthan/AbhishekRauthan/master/assets/web/nest.svg" />
