@@ -11,7 +11,7 @@ const abhishek = {
     askMeAbout: ["web dev", "tech", "Data Analysis","photography", "Photo editing"],
     technologies: {
         frontEnd: {
-            js: ["React.js", "Next.js", "Redux"],
+            js: ["React.js", "Next.js", "Redux",] 
             css: ["material-ui", "bootstrap", "bulma"]
         },
         backEnd: {
@@ -22,7 +22,7 @@ const abhishek = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase","php"]
     },
-    architecture: [ "Progressive web applications", "Single page applications", "Server Side Rendered applications"],
+    architecture: [ "Progressive web applications", "Single page applications", "Server Side Rendered applications", "Server-less Applications"],
 };
 ```
 
