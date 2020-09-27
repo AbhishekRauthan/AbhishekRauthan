@@ -23,7 +23,12 @@ const abhishek = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase","php"]
     },
-    architecture: [ "Progressive web applications", "Single page applications", "Server Side Rendered applications", "Server-less Applications"],
+    architecture: [ 
+    	"Progressive web applications", 
+	"Single page applications", 
+	"Server Side Rendered applications", 
+	"Server-less Applications"
+    ],
 };
 ```
 
