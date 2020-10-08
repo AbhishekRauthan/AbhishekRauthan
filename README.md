@@ -11,14 +11,14 @@ const abhishek = {
     askMeAbout: ["web dev", "tech", "Data Analysis","photography", "Photo editing"],
     technologies: {
         frontEnd: {
-            js: ["React.js", "Next.js", "Redux",] 
+            js: ["React.js", "Next.js", "Redux",], 
             css: ["material-ui", "bootstrap", "bulma"]
         },
         backEnd: {
             js: ["Node", "Express", "Nest.js"],
             python: ["flask"]
         },
-	mobileApps: ["Flutter", "React Native"]
+	mobileApps: ["Flutter", "React Native"],
         dataAnalysis: ["Pandas", "Numpy", "Matplotlib", "Jupyter"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase","php"]
