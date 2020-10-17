@@ -7,7 +7,7 @@
 
 ```javascript
 const abhishek = {
-    code: ["Javascript", "Typescript", "Python", "Dart"],
+    code: ["Javascript", "Typescript", "Python"] 
     askMeAbout: ["web dev", "tech", "Data Analysis","photography", "Photo editing"],
     technologies: {
         frontEnd: {
@@ -18,7 +18,7 @@ const abhishek = {
             js: ["Node", "Express", "Nest.js"],
             python: ["flask"]
         },
-	mobileApps: ["Flutter", "React Native"],
+	mobileApps: ["React Native"],
         dataAnalysis: ["Pandas", "Numpy", "Matplotlib", "Jupyter"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase","php"]
