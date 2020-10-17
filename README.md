@@ -7,7 +7,7 @@
 
 ```javascript
 const abhishek = {
-    code: ["Javascript", "Typescript", "Python"] 
+    code: ["Javascript", "Typescript", "Python"],
     askMeAbout: ["web dev", "tech", "Data Analysis","photography", "Photo editing"],
     technologies: {
         frontEnd: {
