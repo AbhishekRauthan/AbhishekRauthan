@@ -7,21 +7,20 @@
 
 ```javascript
 const abhishek = {
-    code: ["Javascript", "Typescript", "Python"] 
+    code: ["Javascript", "Typescript", "Python"], 
     askMeAbout: ["web dev", "tech", "Data Analysis","photography", "Photo editing"],
     technologies: {
         frontEnd: {
-            js: ["React.js", "Next.js", "Redux",], 
+            js: ["React.js", "Next.js", "Gatsby.js","Redux"], 
             css: ["material-ui", "bootstrap", "bulma"]
         },
         backEnd: {
             js: ["Node", "Express", "Nest.js"],
             python: ["flask"]
         },
-	mobileApps: ["React Native"],
         dataAnalysis: ["Pandas", "Numpy", "Matplotlib", "Jupyter"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase","php"]
+        misc: ["Firebase","php", "wordpress"]
     },
     architecture: [ 
     	"Progressive web applications", 
