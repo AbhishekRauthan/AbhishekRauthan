@@ -11,7 +11,7 @@ const abhishek = {
     askMeAbout: ["web dev", "tech", "Data Analysis","photography", "Photo editing"],
     technologies: {
         frontEnd: {
-            js: ["React.js", "Next.js", "Gatsby.js","Redux"], 
+            js: ["Angular", "Scully","Rxjs"], 
             css: ["material-ui", "bootstrap", "bulma"]
         },
         backEnd: {
