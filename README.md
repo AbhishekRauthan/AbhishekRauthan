@@ -12,7 +12,7 @@ const abhishek = {
     technologies: {
         frontEnd: {
             js: ["Angular", "Scully","Rxjs"], 
-            css: ["material-ui", "bootstrap", "bulma"]
+            css: ["Angular Material", "bootstrap", "bulma"]
         },
         backEnd: {
             js: ["Node", "Express", "Nest.js"],
