@@ -9,16 +9,13 @@ const abhishek = {
     askMeAbout: ["web dev", "tech", "Data Analysis","photography", "Photo editing"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js","Rxjs"], 
-            css: ["Material UI", "tailwindcss", "bootstrap"]
+            js: ["React", "Next.js"], 
+            css: ["Material UI", "tailwindcss", "Chakra UI"]
         },
-        backEnd: {
-            js: ["Node", "Express", "Nest.js"],
-            python: ["flask"]
-        },
+        backEnd: ["Node", "Express", "Nest.js"],
         dataAnalysis: ["Pandas", "Numpy", "Matplotlib", "Jupyter", "Miniconda"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase","php", "wordpress", "C#"]
+        serverLess: ["Firebase","Supabase"]
     },
     architecture: [ 
     	"Progressive web applications", 
