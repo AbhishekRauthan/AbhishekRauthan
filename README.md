@@ -10,11 +10,11 @@ const abhishek = {
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"], 
-            css: ["Material UI", "tailwindcss", "Chakra UI"]
+            styling: ["Mantine", "tailwindcss", "Chakra UI"]
         },
         backEnd: ["Node", "Express", "Nest.js"],
         dataAnalysis: ["Pandas", "Numpy", "Matplotlib", "Jupyter", "Miniconda"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "Postgres"],
         serverLess: ["Firebase","Supabase"]
     },
     architecture: [ 
