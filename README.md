@@ -1,28 +1,34 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Abhishek Rauthan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Student at <a href="http://du.ac.in/"> University of Delhi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```typescript
 const abhishek = {
-    code: ["Javascript", "Typescript", "Python"],
-    askMeAbout: ["web dev", "tech", "Data Analysis","photography", "Photo editing"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"], 
-            styling: ["Mantine", "tailwindcss", "Chakra UI"]
-        },
-        backEnd: ["Node", "Express", "Nest.js"],
-        dataAnalysis: ["Pandas", "Numpy", "Matplotlib", "Jupyter", "Miniconda"],
-        databases: ["mongo", "Postgres"],
-        serverLess: ["Firebase","Supabase"]
+  code: ["Javascript", "Typescript", "Python"],
+  askMeAbout: [
+    "web dev",
+    "tech",
+    "Data Analysis",
+    "photography",
+    "Photo editing",
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      styling: ["tailwindcss", "Material UI", "Chakra UI"],
     },
-    architecture: [ 
-    	"Progressive web applications", 
-	"Single page applications", 
-	"Server Side Rendered applications", 
-	"Server-less Applications"
-    ],
+    backEnd: ["Node", "Express", "Nest.js"],
+    dataAnalysis: ["Pandas", "Numpy", "Matplotlib", "Jupyter", "Miniconda"],
+    databases: ["mongo", "Postgres"],
+    serverLess: ["Firebase", "Supabase"],
+  },
+  architecture: [
+    "Progressive web applications",
+    "Single page applications",
+    "Server Side Rendered applications",
+    "Server-less Applications",
+  ],
 };
 ```
 
